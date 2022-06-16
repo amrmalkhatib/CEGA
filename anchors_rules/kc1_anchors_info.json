@@ -1,0 +1,1 @@
+{"class_values": [0, 1], "feature_names": ["loc", "v_g_", "ev_g_", "iv_g_", "n", "v", "l", "d", "i", "e", "b", "t", "lOCode", "lOComment", "lOBlank", "locCodeAndComment", "uniq_Op", "uniq_Opnd", "total_Op", "total_Opnd", "branchCount"]}
